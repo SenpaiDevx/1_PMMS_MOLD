@@ -2,7 +2,9 @@
 include $_SERVER['DOCUMENT_ROOT'] . '/1_PMMS_MOLD/db_php/db.php';
 $pms_connect = new Connection();
 $pms_pdo = $pms_connect->connect();
-$main = '';
+$main = 'wwwwww';
+$mains = 'librid';
+$tops = 'on the law';
 
 switch ($_GET['action']) {
     case 'pr_scan':
@@ -16,7 +18,10 @@ switch ($_GET['action']) {
             ]);
             $login = $login_stmt->fetch(PDO::FETCH_ASSOC);
             if ($login['pr_exist']) {
-?>
+            ?>
+            <div class="alert alert-secondary">
+                
+            </div>
                 <script>
                     $('#swap_to_scan').css({
                         "display": "none"
