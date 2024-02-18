@@ -5,6 +5,10 @@ $pms_pdo = $pms_connect->connect();
 $main = 'wwwwww';
 $mains = 'librid';
 $tops = 'on the law';
+$new_Push == 'this new push';
+$new_Pushs == 'this new push1111';
+
+
 
 switch ($_GET['action']) {
     case 'pr_scan':
