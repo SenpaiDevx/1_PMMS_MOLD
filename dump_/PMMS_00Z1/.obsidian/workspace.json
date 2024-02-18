@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "e9aa1a926928e763",
+    "type": "split",
+    "children": [
+      {
+        "id": "6738b322ac4ff3a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "193d402de74e4b45",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "087361ff9d39f03e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PMMS plan and Strategies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e961f4c1da3a6b3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-17 08.22.12.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "6c7f5d0250df70d3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-17 13.09.29.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "960cf3416eec5ae1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4adfa858cf9e066",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcd2aa01423b9e20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67ee3ad2f0b7b04f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "641f0f676ba1acfe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d444da7b2066fb62",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebb6eaa0830e5730",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a83dcffcdd769c98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-17 13.09.29.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0da2837f418f090a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-17 13.09.29.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e8ffee103583dabc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2dc6504345a60111",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-17 13.09.29.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "6c7f5d0250df70d3",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-02-17 08.22.12.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-17 13.09.29.excalidraw.md",
+    "PMMS plan and Strategies.md",
+    "Pasted Image 20240217090521_688.png",
+    "Pasted Image 20240217083633_231.png",
+    "Untitled.md",
+    "Excalidraw"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "@oneup_network/dialogify",
+  "version": "1.0.6",
+  "description": "A javascript plugin for creating dialog, implements with HTMLDialogElement.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OneupNetwork/dialogify"
+  },
+  "license": "MIT",
+  "browser": "dist/dialogify.min.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "esbuild": "^0.15.8",
+    "esbuild-plugin-replace": "^1.2.0",
+    "esbuild-sass-plugin": "^2.3.2",
+    "postcss": "^8.4.16",
+    "postcss-preset-env": "^7.8.2"
+  },
+  "dependencies": {
+    "jquery": "^3.6.1"
+  }
+}
