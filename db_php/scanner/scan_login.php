@@ -5,6 +5,7 @@ $pms_pdo = $pms_connect->connect();
 $main = 'wwwwww';
 $mains = 'librid';
 $tops = 'on the law';
+$mainsss = 'sdsd';
 
 switch ($_GET['action']) {
     case 'pr_scan':
